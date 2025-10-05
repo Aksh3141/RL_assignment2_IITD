@@ -1,0 +1,26 @@
+{
+    "TD0_ImportanceSampling(0.0)": {
+        "mean": 0.726,
+        "std": 1.5929607653674336
+    },
+    "TD0_ImportanceSampling(0.1)": {
+        "mean": 1.5739999999999998,
+        "std": 1.6470956256392641
+    },
+    "TD0_ImportanceSampling(0.01)": {
+        "mean": 1.383,
+        "std": 1.532191567657256
+    },
+    "MC_ImportanceSampling(0.0)": {
+        "mean": 0.6999999999999997,
+        "std": 1.5378556499229699
+    },
+    "MC_ImportanceSampling(0.1)": {
+        "mean": 1.781,
+        "std": 0.994051809514977
+    },
+    "MC_ImportanceSampling(0.01)": {
+        "mean": 1.8119999999999998,
+        "std": 0.8870490403579722
+    }
+}

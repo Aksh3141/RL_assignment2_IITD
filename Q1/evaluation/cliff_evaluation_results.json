@@ -1,0 +1,15 @@
+
+{
+    "QLearning": {
+        "mean": 173.18, 
+        "std": 1.69
+    },
+    "Sarsa": {
+        "mean": 169.42, 
+        "std": 22.27
+    },
+    "ExpectedSarsa": {
+        "mean": 173.39, 
+        "std": 1.05
+    }
+}
